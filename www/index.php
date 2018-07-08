@@ -1,5 +1,7 @@
 <?php
- 
+ /*
+  * что-то не получается
+  */
 include_once '../config/config.php';        // Инициализация настроек
 include_once '../library/mainFunctions.php'; // Основные функции
 
